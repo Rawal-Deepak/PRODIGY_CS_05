@@ -1,0 +1,62 @@
+[40m[31mSource IP: 192.168.29.216 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.188 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Ans "2405:201:d01e:c05a:89d:12c4:1459:1344" 
+[40m[31mSource IP: 192.168.29.216 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.27 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.188 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Ans "2405:201:d01e:c05a:89d:12c4:1459:1344" 
+[40m[31mSource IP: 192.168.29.31 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+[40m[31mSource IP: 192.168.29.27 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.31 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Ans "[b'idHash=Yzcz\n', b'dev=1', b'sec=2', b'apps=[8193, 8194]', b'name=Redmi 9 Prime', b'flags=AA==\n', b'version=65540', b'commonData=0', b'appsData=AwIEgwIEgw==\n']" 
+[40m[31mSource IP: 192.168.29.216 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.188 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Ans "0.0.0.0" 
+[40m[31mSource IP: 192.168.29.216 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.27 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.188 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Ans "0.0.0.0" 
+[40m[31mSource IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+[40m[31mSource IP: 192.168.29.29 --> Destination IP: 224.0.0.22 | Protocol: 2
+[40m[31mSource IP: 192.168.29.27 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.188 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Ans "::" 
+[40m[31mSource IP: 192.168.29.27 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.188 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Ans "::" 
+[40m[31mSource IP: 192.168.29.27 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.31 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+[40m[31mSource IP: 192.168.29.29 --> Destination IP: 224.0.0.22 | Protocol: 2
+[40m[31mSource IP: 192.168.29.31 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Ans "[b'idHash=Yzcz\n', b'dev=1', b'sec=2', b'apps=[8193, 8194]', b'name=Redmi 9 Prime', b'flags=AA==\n', b'version=65540', b'commonData=0', b'appsData=AwIEgwIEgw==\n']" 
+[40m[31mSource IP: 192.168.29.52 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+[40m[31mSource IP: 192.168.29.52 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.28 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+[40m[31mSource IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+[40m[31mSource IP: 192.168.29.29 --> Destination IP: 224.0.0.22 | Protocol: 2
+[40m[31mSource IP: 192.168.29.31 --> Destination IP: 224.0.0.251 | Protocol: 17
+[34mUDP Payload: DNS Qry "b'_233637DE._sub._googlecast._tcp.local.'" 
+[40m[31mSource IP: 192.168.29.28 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.1 --> Destination IP: 224.0.0.1 | Protocol: 2
+[40m[31mSource IP: 192.168.29.29 --> Destination IP: 224.0.0.22 | Protocol: 2
+[40m[31mSource IP: 192.168.29.27 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
+[40m[31mSource IP: 192.168.29.27 --> Destination IP: 239.255.255.250 | Protocol: 17
+[34mUDP Payload: Raw
